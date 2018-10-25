@@ -24,7 +24,7 @@ git clone https://{username}@git.sparkred.com/scm/rhw/cucumber.git
 2.  Open Intellij and then you should be able to see the project folders and files
     *File->Open->cucumberDemo
 
-##Execution
+## Execution
 1.  Must run this first, as this will pull in your dependencies - Open a terminal and make sure you are in your project directory and run the following cmd:
 ``
 mvn clean
@@ -33,3 +33,6 @@ mvn clean
 ``
 mvn test
 ``
+
+## Reports
+Each run will generate a report. Reports are under target/cucumber-html-reports/cucumber-html-reports/overview-features.html
