@@ -19,7 +19,7 @@
 ## Cucumber Installation
 1.	Open a terminal and run the following command to pull down a copy of the cucumber repo.
 ``
-git clone https://{username}@git.sparkred.com/scm/rhw/cucumber.git
+https://github.com/iso13/cucumberDemo.git
 ``
 2.  Open Intellij and then you should be able to see the project folders and files
     *File->Open->cucumberDemo
