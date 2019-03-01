@@ -12,7 +12,7 @@ Feature: Search
     Then I should see some search results for Pluto
 
   @BEH-1 @OPEN
-  Scenario: BehavePro Intgration
+  Scenario: BehavePro Integration
     Given I add the BehavePro plugin
     When I create a new scenario
     Then it should be added to my repository
