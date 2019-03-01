@@ -1,5 +1,5 @@
 Feature:
 
-  Scenario:
+  Scenario: Testing permissions
     test
     
