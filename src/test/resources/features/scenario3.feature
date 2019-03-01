@@ -22,11 +22,6 @@ Feature: Scenario3
     Then I can
 
   @ISO-5 @OPEN
-  Scenario: Scenario4
-    Given I fly to the moon
-    And I can jump up and down
-
-  @ISO-5 @OPEN
   Scenario: Scenario5
 
   @ISO-5 @OPEN
