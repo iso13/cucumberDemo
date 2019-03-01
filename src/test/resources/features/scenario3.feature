@@ -21,7 +21,7 @@ Feature: Scenario3
     And I get to the moon
     Then I can
 
-  @ORPHAN
+  @ISO-5 @OPEN
   Scenario: Scenario4
     Given I fly to the moon
     And I can jump up and down
