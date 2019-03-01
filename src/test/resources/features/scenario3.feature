@@ -1,8 +1,6 @@
 Feature: Scenario3
 
-  As a user
-  I want to test
-  So I can test
+  As a user I want to test So I can test
 
   @ORPHAN
   Scenario: Scenario1
