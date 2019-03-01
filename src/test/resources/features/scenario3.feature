@@ -9,7 +9,7 @@ Feature: Scenario3
     When I get something done
     Then I will be able to complete the test
 
-  @ORPHAN
+  @ORPHAN @MANUAL
   Scenario: Scenario2
     Given I fly to the moon
     When I get to the moon
