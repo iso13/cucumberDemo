@@ -1,8 +1,9 @@
+@vlad @david
 Feature: Scenario3
 
   As a user I want to test So I can test
 
-  @ISO-5 @OPEN @scenario
+  @ISO-5 @OPEN @scenario @MANUAL
   Scenario: Scenario1
     Given I do something really cool2
     When I get something done
