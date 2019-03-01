@@ -22,3 +22,4 @@ Feature: JIRA Integration
         |value|
         |1|
         | 2|
+        |3|
