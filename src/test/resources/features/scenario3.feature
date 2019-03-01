@@ -5,7 +5,7 @@ Feature: Scenario3
 
   @ISO-5 @OPEN @scenario
   Scenario: Scenario1
-    Given I do something really cool
+    Given I do something really cool2
     When I get something done
     Then I will be able to complete the test
 
