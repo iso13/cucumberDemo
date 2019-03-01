@@ -25,3 +25,6 @@ Feature: Scenario3
   Scenario: Scenario4
     Given I fly to the moon
     And I can jump up and down
+
+  @ORPHAN
+  Scenario: Scenario5
