@@ -28,3 +28,6 @@ Feature: Scenario3
 
   @ISO-5 @OPEN
   Scenario: Scenario5
+
+  @ORPHAN
+  Scenario: Scenario: Test6
