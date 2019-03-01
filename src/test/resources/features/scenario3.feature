@@ -15,7 +15,7 @@ Feature: Scenario3
     When I get to the moon
     Then I can jump up and down
 
-  @ORPHAN
+  @ORPHAN @search
   Scenario: Scenario3
     Given I do something
     And I get to the moon
