@@ -1,3 +1,4 @@
+@scenario
 Feature: Scenario3
 
   As a user I want to test So I can test
