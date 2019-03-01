@@ -13,7 +13,7 @@ Feature: JIRA Integration
     When I do something cool
     Then I finish
     
-    Scenario Outline:
+    Scenario Outline: test3
       Given I enter "<value>"
       When I fall
       Then We do something
@@ -21,5 +21,5 @@ Feature: JIRA Integration
       Examples:
         |value|
         |1|
-        | 2|
+        |2|
         |3|
