@@ -1,5 +1,5 @@
 Feature:
 
   Scenario: Testing permissions
-    test
+    Given I test a feature
     
