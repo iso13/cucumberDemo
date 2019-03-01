@@ -3,7 +3,7 @@ Feature: Scenario3
 
   As a user I want to test So I can test
 
-  @ORPHAN @scenario @MANUAL
+  @ORPHAN @scenario
   Scenario: Scenario1
     Given I do something really cool
     When I get something done
