@@ -12,3 +12,13 @@ Feature: JIRA Integration
     Given I fall
     When I do something cool
     Then I finish
+    
+    Scenario Outline:
+      Given I enter "<value>"
+      When I fall
+      Then We do something
+      
+      Examples:
+        |value|
+        |1|
+        | 2|
