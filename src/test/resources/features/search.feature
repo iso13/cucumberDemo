@@ -11,7 +11,7 @@ Feature: Search
     When I search for "Pluto"
     Then I should see some search results for Pluto
 
-  @BEH-1 @OPEN
+  @ORPHAN
   Scenario: BehavePro Integration
     Given I add the BehavePro plugin
     When I create a new scenario
