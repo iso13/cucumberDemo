@@ -1,3 +1,4 @@
+@createGroup
 Feature: createGroup
 
   @BEH-1 @OPEN
