@@ -15,3 +15,14 @@ Feature: createGroup
 
   @BEH-1 @OPEN
   Scenario: Create a Group with the same name
+
+  @ORPHAN
+  Scenario Outline: Scenario Outline Test
+    Given I drive "<vehicle>"
+    When I move the "<vehicle>"
+    Then I will be at a different "<location>"
+    
+    Examples:
+      |vehicle    |location|
+      | car       | NY     |
+      | motorcycle| SF     |
