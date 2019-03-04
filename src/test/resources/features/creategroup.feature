@@ -1,4 +1,4 @@
-Feature: Create Group
+Feature: createGroup
 
   @BEH-1 @OPEN
   Scenario: Create a Group with minimum required data
