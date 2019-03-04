@@ -1,4 +1,4 @@
 Feature: Create Group
 
-  @ORPHAN
+  @BEH-1 @OPEN
   Scenario: Create a Group with minimum required data
