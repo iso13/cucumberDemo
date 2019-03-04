@@ -6,7 +6,7 @@ Feature: createGroup
     Given I log in as a "Broker"
     When I pass the following data
      |test|test2|
-     | 2  |3    |
+     | 2  | 3   |
      | 4  | 5   |
     Then I should have a "completed test"
 
