@@ -3,7 +3,7 @@ Feature: createGroup
 
   @BEH-1 @OPEN
   Scenario: Create a Group with minimum required data
-    Give I log in as a "Broker"
+    Given I log in as a "Broker"
     When I pass the following data
      |test|test2|
      | 2  |3    |
