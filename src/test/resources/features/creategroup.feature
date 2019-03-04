@@ -16,7 +16,7 @@ Feature: createGroup
   @BEH-1 @OPEN
   Scenario: Create a Group with the same name
 
-  @ORPHAN
+  @BEH-1 @OPEN
   Scenario Outline: Scenario Outline Test
     Given I drive "<vehicle>"
     When I move the "<vehicle>"
