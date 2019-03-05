@@ -27,7 +27,7 @@ Feature: createGroup
       | car       | NY     |
       | motorcycle| SF     |
 
-  @BEH-1 @OPEN
+  @BEH-1 @OPEN @MANUAL
   Scenario: New Scenario
     Given I create a new scenario
     When I choose to not use the sceanrio
