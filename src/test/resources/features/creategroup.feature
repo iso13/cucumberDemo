@@ -26,3 +26,9 @@ Feature: createGroup
       |vehicle    |location|
       | car       | NY     |
       | motorcycle| SF     |
+
+  @ORPHAN
+  Scenario: New Scenario
+    Given I create a new scenario
+    When I choose to not use the sceanrio
+    Then I will not have the use of the new scenario
