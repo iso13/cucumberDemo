@@ -1,6 +1,6 @@
 Feature: createGroup
 
-  @BEH-1 @OPEN
+  @BEH-1 @COMPLETED
   Scenario: Create a Group with minimum required data
     Given I log in as a "Broker"
     When I pass the following data
