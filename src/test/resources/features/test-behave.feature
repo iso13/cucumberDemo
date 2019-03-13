@@ -1,6 +1,6 @@
 Feature: Test Behave
 
-  @ORPHAN
+  @BEH-3 @OPEN
   Scenario: Behave should be integrated to Git
     Given I develop a Feature and Scenario
     When I complete the Story
