@@ -11,6 +11,7 @@ Feature: createGroup
 
   @BEH-1 @WIP
   Scenario: Create a Group with full set of data
+    Test
 
   @BEH-1 @WIP
   Scenario: Create a Group with the same name
