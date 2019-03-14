@@ -9,7 +9,7 @@ Feature: FeatureTest
     When I do this
     Then I should be done
 
-  @ORPHAN
+  
   Scenario: Secanrio2 Demo Test
     Given I have time
     When I generate a report
