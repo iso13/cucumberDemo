@@ -33,6 +33,6 @@ Feature: createGroup
     When I choose to not use the sceanrio
     Then I will not have the use of the new scenario
 
-  @ORPHAN
+  @BEH-4 @OPEN
   Scenario: Create group with minimal data
     Given I create a new scenario
