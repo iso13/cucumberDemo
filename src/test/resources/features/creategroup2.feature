@@ -1,6 +1,6 @@
 Feature: createGroup2
 
-  As a PMI want to share Scenarios  So I can have team cross collaboration
+  As a PM I want to share Scenarios  So I can have team cross collaboration
 
   @BEH-2 @OPEN
   Scenario: Scenario Demo Test
