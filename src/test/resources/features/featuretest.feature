@@ -8,3 +8,9 @@ Feature: FeatureTest
     Given I have time
     When I do this
     Then I should be done
+
+  @ORPHAN
+  Scenario: Secanrio2 Demo Test
+    Given I have time
+    When I generate a report
+    Then I should be able to do work
